@@ -1,0 +1,192 @@
+[
+    {
+        "name": "1",
+        "metric": "Spend",
+        "condition": "Równe",
+        "value": 0.0,
+        "change": 15.0,
+        "type": "Bid",
+        "value_type": "Wpisz wartość",
+        "color": "Czerwony"
+    },
+    {
+        "name": "2",
+        "metric": "Spend",
+        "condition": "Większe niż",
+        "value": 0.0,
+        "change": -15.0,
+        "type": "Bid",
+        "value_type": "Wpisz wartość",
+        "color": "Czerwony"
+    },
+    {
+        "name": "3",
+        "metric": "Orders",
+        "condition": "Równe",
+        "value": 0.0,
+        "change": -15.0,
+        "type": "Bid",
+        "value_type": "Wpisz wartość",
+        "color": "Czerwony"
+    },
+    {
+        "name": "4",
+        "metric": "ACOS",
+        "condition": "Mniejsze niż",
+        "value": 15.0,
+        "change": -5.0,
+        "type": "Bid",
+        "value_type": "Wpisz wartość",
+        "color": "Czerwony"
+    },
+    {
+        "name": "4",
+        "metric": "ACOS",
+        "condition": "Mniejsze niż",
+        "value": 21.0,
+        "change": -5.0,
+        "type": "Bid",
+        "value_type": "Wpisz wartość",
+        "color": "Czerwony"
+    },
+    {
+        "name": "5",
+        "metric": "ACOS",
+        "condition": "Większe niż",
+        "value": 21.0,
+        "change": -10.0,
+        "type": "Bid",
+        "value_type": "Wpisz wartość",
+        "color": "Czerwony"
+    },
+    {
+        "name": "5",
+        "metric": "ACOS",
+        "condition": "Mniejsze niż",
+        "value": 31.0,
+        "change": -10.0,
+        "type": "Bid",
+        "value_type": "Wpisz wartość",
+        "color": "Czerwony"
+    },
+    {
+        "name": "6",
+        "metric": "ACOS",
+        "condition": "Większe niż",
+        "value": 40.0,
+        "change": -25.0,
+        "type": "Bid",
+        "value_type": "Wpisz wartość",
+        "color": "Czerwony"
+    },
+    {
+        "name": "6",
+        "metric": "ACOS",
+        "condition": "Mniejsze niż",
+        "value": 51.0,
+        "change": -25.0,
+        "type": "Bid",
+        "value_type": "Wpisz wartość",
+        "color": "Czerwony"
+    },
+    {
+        "name": "7",
+        "metric": "ACOS",
+        "condition": "Większe niż",
+        "value": 10.0,
+        "change": 5.0,
+        "type": "Bid",
+        "value_type": "Wpisz wartość",
+        "color": "Czerwony"
+    },
+    {
+        "name": "7",
+        "metric": "ACOS",
+        "condition": "Mniejsze niż",
+        "value": 15.0,
+        "change": 5.0,
+        "type": "Bid",
+        "value_type": "Wpisz wartość",
+        "color": "Czerwony"
+    },
+    {
+        "name": "8",
+        "metric": "ACOS",
+        "condition": "Większe niż",
+        "value": 4.0,
+        "change": 10.0,
+        "type": "Bid",
+        "value_type": "Wpisz wartość",
+        "color": "Czerwony"
+    },
+    {
+        "name": "8",
+        "metric": "ACOS",
+        "condition": "Mniejsze niż",
+        "value": 11.0,
+        "change": 10.0,
+        "type": "Bid",
+        "value_type": "Wpisz wartość",
+        "color": "Czerwony"
+    },
+    {
+        "name": "9",
+        "metric": "ACOS",
+        "condition": "Mniejsze niż",
+        "value": 5.0,
+        "change": 15.0,
+        "type": "Bid",
+        "value_type": "Wpisz wartość",
+        "color": "Czerwony"
+    },
+    {
+        "name": "1",
+        "metric": "ROAS",
+        "condition": "Większe niż",
+        "value": 0.0,
+        "change": 0.0,
+        "type": "Highlight",
+        "value_type": "Średnia z konta",
+        "color": "Zielony"
+    },
+    {
+        "name": "2",
+        "metric": "ROAS",
+        "condition": "Mniejsze niż",
+        "value": 0.0,
+        "change": 0.0,
+        "type": "Highlight",
+        "value_type": "Średnia z konta",
+        "color": "Czerwony"
+    },
+    {
+        "name": "3",
+        "metric": "CTR",
+        "condition": "Większe niż",
+        "value": 0.0,
+        "change": 0.0,
+        "type": "Highlight",
+        "value_type": "Średnia z konta",
+        "color": "Zielony"
+    },
+    {
+        "name": "4",
+        "metric": "CTR",
+        "condition": "Mniejsze niż",
+        "value": 0.0,
+        "change": 0.0,
+        "type": "Highlight",
+        "value_type": "Średnia z konta",
+        "color": "Czerwony"
+    },
+    {
+        "type": "Bid",
+        "name": "",
+        "metric": "ACOS",
+        "condition": "Większe niż",
+        "value": 0.0,
+        "change": 0.0,
+        "value_type": "Wpisz wartość",
+        "color": "Czerwony"
+    }
+]
